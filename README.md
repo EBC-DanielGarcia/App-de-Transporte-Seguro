@@ -181,6 +181,8 @@ Proyecto académico EBC
 Hackaton Tendencias en nuevas tecnologias.
 
 ## Autores
-Jose Daniel Garcia sepulveda
+Jose Daniel Garcia Sepulveda
+
 Pamela Hernandez Almeida
+
 Juan Daniel Arcizo Esquivel
