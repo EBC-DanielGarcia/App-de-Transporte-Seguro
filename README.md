@@ -177,8 +177,10 @@ El sistema implementa los siguientes requisitos:
 
 ## Licencia
 
-Proyecto académico - Universidad
+Proyecto académico EBC
+Hackaton Tendencias en nuevas tecnologias.
 
 ## Autores
-
-Sistema desarrollado como prototipo académico para el monitoreo de transporte en tiempo real.
+Jose Daniel Garcia sepulveda
+Pamela Hernandez Almeida
+Juan Daniel Arcizo Esquivel
